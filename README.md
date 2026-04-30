@@ -1,6 +1,6 @@
 # Hey there, I'm Sunvir Shakib 👋
 
-**Half-engineer, half-explorer · CS undergrad figuring out where code meets curiosity · Open to everything, committed to nothing (yet)**
+**Half-engineer, half-explorer | CS undergrad figuring out where code meets curiosity | Open to everything, committed to nothing (yet)**
 
 🎓 CS & Engineering Undergrad · Semester 5 of 8 · Chattogram, Bangladesh  
 📣 3+ years in Social Media Strategy & Digital Marketing — now chasing code  
