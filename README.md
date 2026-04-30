@@ -26,8 +26,8 @@
 
 ## 🌱 Currently Learning
 
-- 🔐 **Cybersecurity** — understanding how things break so I can build things that don't
-- 📊 **Data Science & Machine Learning** — finding patterns in the noise
+- 🔐 **Cybersecurity**
+- 📊 **Data Science & Machine Learning**
 
 ---
 
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <i>"The best specialization is one you've actually tested."</i>
+  <i>"Love yoursef first, then others."</i>
 </p>
