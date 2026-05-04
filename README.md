@@ -22,8 +22,6 @@
 
 ---
 
----
-
 ## 🚀 Projects
 
 | Project | Description | Tech |
