@@ -1,9 +1,6 @@
 # Hey there, I'm Sunvir Shakib 👋
 
-pursuing Computer Science and Engineering with a major in Data Science — still exploring where I want to specialize. 
-
-had 3+ years of experience in Digital Marketing.
-
+ — still exploring where I want to specialize. 
 
 ---
 
