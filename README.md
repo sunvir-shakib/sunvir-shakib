@@ -1,8 +1,6 @@
 # Hey there, I'm Sunvir Shakib 👋
 
- — still exploring where I want to specialize. 
-
----
+ still exploring where I want to specialize. 
 
 ## 🛠️ Tech Stack
 
